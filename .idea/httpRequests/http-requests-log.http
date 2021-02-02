@@ -1,0 +1,14 @@
+GET http://localhost:18080/pic/upload/aa
+
+<> 2021-01-30T073021.404.json
+
+###
+
+GET https://localhost:18080/pic/upload/aa
+
+###
+
+GET http://localhost/pic/upload/aa
+
+###
+
